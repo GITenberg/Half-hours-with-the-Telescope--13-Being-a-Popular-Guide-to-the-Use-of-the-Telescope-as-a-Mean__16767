@@ -20,6 +20,8 @@ description: "Preface:\r\n\r\nThe object which the Author and Publisher of this 
   \ the range of a good 3-inch achromatic.\r\n\r\nThe work also treats of the construction\
   \ of telescopes, the nature and use of star-maps, and other subjects connected with\
   \ the requirements of amateur observers."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16767#Half-hours-with-the-Telescope--13-Being-a-Popular-Guide-to-the-Use-of-the-Telescope-as-a-Mean_
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2005-09-28'
 gutenberg_type: Text
