@@ -1,0 +1,45 @@
+_repo: Half-hours-with-the-Telescope--13-Being-a-Popular-Guide-to-the-Use-of-the-Telescope-as-a-Mean__16767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Proctor, Richard A. (Richard Anthony)
+    alias: Proctor, Richard Anthony
+    birthdate: 1837
+    deathdate: 1888
+    gutenberg_agent_id: '6917'
+    url: http://www.gutenberg.org/2009/agents/6917
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Anthony_Proctor
+description: "Preface:\r\n\r\nThe object which the Author and Publisher of this little\
+  \ work have proposed to themselves, has been the production, at a moderate price,\
+  \ of a useful and reliable guide to the amateur telescopist.\r\n\r\nAmong the celestial\
+  \ phenomena described or figured in this treatise, by far the larger number may\
+  \ be profitably examined with small telescopes, and there are none which are beyond\
+  \ the range of a good 3-inch achromatic.\r\n\r\nThe work also treats of the construction\
+  \ of telescopes, the nature and use of star-maps, and other subjects connected with\
+  \ the requirements of amateur observers."
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2005-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16767'
+language: en
+publication_note: "New York:\r\nG.P. Putnam's Sons.\r\n1873."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Telescopes'
+- !lcsh 'Astronomy'
+tableOfContents: "Chapter I.\r\nA Half-Hour on the Structure of the Telescope\r\n\r\
+  \nChapter II.\r\nA Half-Hour with Orion, Lepus, Taurus, etc.\r\n\r\nChapter III.\r\
+  \nA Half-Hour with Lyra, Hercules, Corvus, Crater, etc.\r\n\r\nChapter IV.\r\nA\
+  \ Half-Hour with Bootes, Scorpio, Ophiuchus, etc.\r\n\r\nChapter V.\r\nA Half-Hour\
+  \ with Andromeda, Cygnus, etc.\r\n\r\nChapter VI.\r\nHalf-Hours with the Planets\r\
+  \n\r\nChapter VII.\r\nHalf-Hours with the Sun and Moon"
+title: "Half-hours with the Telescope\r\nBeing a Popular Guide to the Use of the Telescope\
+  \ as a Means of Amusement and Instruction."
+url: http://www.gutenberg.org/ebooks/16767
